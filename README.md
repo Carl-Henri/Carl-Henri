@@ -5,7 +5,7 @@ Engineering student at **Centrale Lyon** (generalist program, 2023–2027), curr
 ## Experience
 
 **R&D Engineering Intern — Generative AI · Thales AVS** *(Apr 2024 – Feb 2026)*
-Built production RAG systems and agentic AI pipelines for engineering document analysis. Stack: Python, LangChain, LangGraph, PyTorch, Mistral, GPT-4, ChromaDB.
+Built production RAG systems and agentic AI pipelines for engineering document analysis. Stack: Python, LangChain, LangGraph, PyTorch, Mistral, ChromaDB.
 
 **Student Researcher · Centrale Lyon × LIRIS/INL** *(2024 – 2025)*
 Applied deep reinforcement learning (PPO, Stable-Baselines3) to reduce electronic chip design time.
@@ -14,7 +14,7 @@ Applied deep reinforcement learning (PPO, Stable-Baselines3) to reduce electroni
 
 | Project | Description | Stack |
 |---|---|---|
-| [ATLAS](https://github.com/Carl-Henri/ATLAS) | Agentic RAG platform for engineering documents — hybrid search, visual RAG, multi-format ingestion | Python · LangGraph · ChromaDB · Mistral · GPT-4 |
+| [ATLAS](https://github.com/Carl-Henri/ATLAS) | Agentic RAG platform for engineering documents — hybrid search, visual RAG, multi-format ingestion | Python · LangGraph · ChromaDB · Mistral |
 | [2048-qt](https://github.com/Carl-Henri/2048-qt) | 2048 game with configurable grid, undo, and touchpad support | C++ · Qt · QML |
 | [ant-colony-tsp](https://github.com/Carl-Henri/ant-colony-tsp) | Ant Colony Optimization solving the Traveling Salesman Problem, with live visualization | Python · NetworkX · Tkinter |
 | [Map-Vélov](https://github.com/Carl-Henri/Map-velov) | Interactive map of Toulouse bike-sharing stations with real-time availability and historical charts | Python · JavaScript · Leaflet.js |
@@ -25,7 +25,7 @@ Applied deep reinforcement learning (PPO, Stable-Baselines3) to reduce electroni
 
 ```
 AI & Data     LLMs · RAG · Agentic AI · PyTorch · Reinforcement Learning
-Programming   Python · C++ · TypeScript · SQL · OCaml
+Programming   Python · C++ · SQL · OCaml
 Web           React · Strapi · Node.js
 Tools         Git · Matlab · Linux
 Languages     French (native) · English (C1) · German (B2)
