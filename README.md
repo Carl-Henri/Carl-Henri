@@ -20,7 +20,7 @@ Applied deep reinforcement learning (PPO, Stable-Baselines3) to reduce electroni
 | [ATLAS](https://github.com/Carl-Henri/ATLAS) | Agentic RAG platform for engineering documents — hybrid search, visual RAG, multi-format ingestion | Python · LangGraph · ChromaDB · Mistral |
 | [2048-qt](https://github.com/Carl-Henri/2048-qt) | 2048 game with configurable grid, undo, and touchpad support | C++ · Qt · QML |
 | [ant-colony-tsp](https://github.com/Carl-Henri/ant-colony-tsp) | Ant Colony Optimization solving the Traveling Salesman Problem, with live visualization | Python · NetworkX · Tkinter |
-| [Map-Vélov](https://github.com/Carl-Henri/Map-velov) | Interactive map of Toulouse bike-sharing stations with real-time availability and historical charts | Python · JavaScript · Leaflet.js |
+| [Map-Vélov](https://github.com/Carl-Henri/Map-velov) | Interactive map of Lyon bike-sharing stations with real-time availability and historical charts | Python · JavaScript · Leaflet.js |
 | [TIPE-2023](https://github.com/Carl-Henri/TIPE-2023) | Urban traffic simulation using percolation theory to study the impact of autonomous vehicles | Python · Pygame · OpenStreetMap |
 | [Site-Web-Je](https://github.com/Carl-Henri/Site-Web-Je) | Full-stack website for a research laboratory — [tryearz.com](https://tryearz.com) | React · Strapi · PostgreSQL |
 
