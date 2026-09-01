@@ -6,9 +6,11 @@ Engineering student at **Centrale Lyon** (generalist program, 2023–2027), curr
 
 **AI Research Engineer Intern · CEA** *(Mar 2026 – Present)*
 Developing AI solutions for a cybersecurity lab: LLM agents interfacing with internal tools via MCP servers, coding agents using internal libraries, and fine-tuned embedding models for domain-specific semantic search. Stack: Python, LangChain, LangGraph, Sentence Transformers, Gradio, HuggingFace, vLLM.
+Final presentation → [CEA-internship](https://github.com/Carl-Henri/CEA-internship) *(English & French)*
 
 **R&D Engineering Intern — Generative AI · Thales AVS** *(Apr 2024 – Feb 2026)*
 Built production RAG systems and agentic AI pipelines for engineering document analysis. Stack: Python, LangChain, LangGraph, PyTorch, Mistral, ChromaDB.
+Final presentation → [ATLAS](https://github.com/Carl-Henri/ATLAS#context) *(English & French)*
 
 **Student Researcher · Centrale Lyon × LIRIS/INL** *(2024 – 2025)*
 Applied deep reinforcement learning (PPO, Stable-Baselines3) to reduce electronic chip design time.
